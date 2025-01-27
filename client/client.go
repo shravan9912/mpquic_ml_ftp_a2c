@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	quic "github.com/shravan9912//mpquic_ml_a2c"
-	mpqConstants "github.com/shravan9912//mpquic_ml_a2c/constants"
+	mpqConstants "github.com/shravan9912/mpquic_ml_a2c/constants"
 
 	"github.com/shravan9912/mpquic_ml_ftp_a2c/common"
 	"github.com/shravan9912/mpquic_ml_ftp_a2c/constants"
