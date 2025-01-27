@@ -1,0 +1,811 @@
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 60.025220 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000112 sec
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 62.816125 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000127 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 69.560078 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000119 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 61.377759 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000122 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 64.027497 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000124 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000170180 0xc0001701c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 59.171198 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000122 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 64.668131 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.001574 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 59.331369 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.001082 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 63.623286 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000138 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 65.361221 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000141 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 63.586148 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000129 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 66.399628 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 64.981436 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 66.749888 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Model saved successfully..
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 67.343523 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 64.772871 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000117 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 66.171326 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 60.885023 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000238 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 58.707973 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000130 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 64.284130 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 65.169246 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000170180 0xc0001701c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 64.383772 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 65.455336 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000658 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 63.765996 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 65.936103 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000128 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 66.205078 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 58.906987 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000126 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Model saved successfully..
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 66.246578 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 67.217086 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000139 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 63.591067 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 60.783457 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000125 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 61.975012 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000125 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 62.101393 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 68.996358 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000134 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 59.542818 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000126 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Sent Bytes:  10
+Loaded existing model.
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 65.283646 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 59.645937 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000157 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 65.415259 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000140 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 63.734335 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000121 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 69.417980 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000143 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000170180 0xc0001701c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 66.636946 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 63.795656 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000131 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 60.399805 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000123 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000172180 0xc0001721c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 58.833885 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000137 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Model saved successfully..
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 67.125989 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000143 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 65.475518 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000141 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc000102180 0xc0001021c0}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 62.588076 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000166 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Model saved successfully..
+Sent Bytes:  64000000
+Time Taken to Send File: 63.324909 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000196 sec
+Model saved successfully..
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 66.379987 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000156 sec
+Default training Dir Path:
+Selected Multipath Scheduler: a2c
+Model created: &{0xc0000781c0 0xc000078200}
+CALLING SETUP AAAAAAAAAAAAAAAAAAAAAA
+64MB.txt [ home mutdroco-nuc3 Documents vdostream making test mpquic_ml_ftp_dear client_store 64MB.txt]
+Loaded existing model.
+Sent Bytes:  10
+Model saved successfully..
+Read File /home/mutdroco-nuc3/Documents/vdostream/making/test/mpquic_ml_ftp_a2c/client_store/64MB.txt
+Sent Bytes:  64000000
+Time Taken to Send File: 68.697144 sec
+Model saved successfully..
+Data received for Path 2: 42 	|| Time Taken To Download File: 0.000147 sec
+Model saved successfully..
+applying netem conditions-------Starts.....
+netem comndtitions applied------Done...
+POSRHeRa
+POSRHeRa
+POSRHeRa
+Saved_M
+0.9%
+0.9%
+a2c
+50
+0
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
+do_client_action----starts....
+client_action----done....
