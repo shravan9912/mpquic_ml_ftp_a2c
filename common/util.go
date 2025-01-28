@@ -7,7 +7,7 @@ import (
 	"crypto/x509"
 	"encoding/pem"
 	"fmt"
-	quic "github.com/shravan9912//mpquic_ml_a2c"
+	quic "github.com/shravan9912/mpquic_ml_a2c"
 	"github.com/shravan9912/mpquic_ml_ftp_a2c/constants"
 	"github.com/teris-io/shortid"
 	"io"
